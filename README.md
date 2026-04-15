@@ -11,4 +11,4 @@ A plataforma Perseids parou de gerar o código-fonte para a anotação do Treeba
 
 O app roda em https://arethusa-skeleton.streamlit.app
 
-Idealizado e conduzido por Anise Ferreira com auxílio do desenvolvimento técnico de Gemini/Google Workspace/AI. 
+Idealizado e conduzido por Anise Ferreira com auxílio do desenvolvimento técnico de Gemini/Google Workspace/AI at FCLAr/UNESP.
