@@ -1,5 +1,5 @@
 # arethusa-skeleton-gen
-*Arethusa XML Skeleton Generator* for sentences to be annotated in the Arethusa editor within the Perseids platform - perseids.org. The Perseids platform has stopped generating source code for annotating the AGDT Treebank, but it still allows users to import XML files and view previous annotations. 
+*Arethusa XML Skeleton Generator* for sentences to be annotated in the Arethusa editor within the Perseids platform - perseids.org. The Perseids platform has stopped generating source code for annotating the AGDT Treebank; however, it still allows users to import non-annotated XML files ready to be treebanked and to view previous annotations. 
 
 This app generates an XML file with parsed sentences, in the Arethusa treebank AGDT format used in Perseids Platform. 
 
