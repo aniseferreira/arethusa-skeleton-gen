@@ -3,7 +3,7 @@
 
 This streamlit application generates an XML file containing parsed sentences formatted according to the Arethusa treebank AGDT standards used in the Perseids Platform. Paste your Greek sentences, each on a new line, click the button, and download your file effortlessly.
 
-By Anise Ferreira, carried out with the assistance of Gemini/Google Workspace/AI.
+By Anise Ferreira, carried out with the assistance of Gemini/Google Workspace/AI at FCLAR/UNESP.
 
 
 *Gerador de Esqueleto XML Arethusa*  para sentenças a serem anotadas no editor Arethusa dentro da plataforma Perseids
